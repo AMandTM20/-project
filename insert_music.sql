@@ -1,3 +1,5 @@
+--Заполнение таблиц данными
+
 -- Заполнение таблицы genre
 insert into genre(name_g)
 VALUES('blues');

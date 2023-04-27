@@ -1,3 +1,4 @@
+--Создание таблиц для базы music
 CREATE TABLE IF NOT EXISTS Genre(
 	id SERIAL PRIMARY KEY,
 	name_g VARCHAR(40) NOT NULL
