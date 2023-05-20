@@ -28,7 +28,7 @@ with psycopg2.connect(database="clients_db5", user="postgres", password="postgre
 		with conn.cursor() as cur:
 	 		cur.execute("""
 	 			INSERT INTO client(client_id, firstname, lastname, email) 
-	 			values(1,'Сидорка','Сидоркова','sigs@mail.ru');
+	 			values(5,'Сидорка','Сидоркова','sigs@mail.ru');
 	 			""")
 		conn.commit();
 
