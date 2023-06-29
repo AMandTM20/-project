@@ -1,0 +1,38 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/82680077?from=vacancy_search_list&query=python",
+        "wages": "100000 – 150000 ₽",
+        "company_name": "Университет искусственного интеллекта",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/82467015?from=vacancy_search_list&query=python",
+        "wages": "от 90000 ₽",
+        "company_name": "Ассоциация Когнитивно-Поведенческой Психотерапии",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/71147348?from=vacancy_search_list&query=python",
+        "wages": "300000 – 500000 ₽",
+        "company_name": "ОООДубайт",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/82680076?from=vacancy_search_list&query=python",
+        "wages": "100000 – 150000 ₽",
+        "company_name": "Университет искусственного интеллекта",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/82349953?from=vacancy_search_list&query=python",
+        "wages": "от 100000 ₽",
+        "company_name": "Own Script",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+        "wages": "150000 – 200000 ₽",
+        "company_name": "B.ART",
+        "city": "Москва"
+    }
+]
